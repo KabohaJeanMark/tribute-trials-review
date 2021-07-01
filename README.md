@@ -1,11 +1,8 @@
-# html-css-linter-template
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# tribute-collabo
 
-> This is a custom template following Microverse best practices for a Professional Github repository.
+> This is a practice project about one of football's greatest players ever, Pele. The key focus is the PR review
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./screenshot.png)
 
 ## Built With
 
@@ -14,7 +11,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](url/)
+[Live Demo Link](https://kabohajeanmark-nytimes-clone.onrender.com/)
 
 
 ## Getting Started
@@ -22,22 +19,22 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
-- Download this GitHub Repo and go the index.html file.
+- Download this GitHub Repo and go the index.html file
 
 ### Install
-- Set up liveserver as an extension in your VS Code.
+- Set up liveserver as an extension in your VS Code
 
 ### Usage
-- Right click and open the index.html in your browser to view.
+- Right click and open the index.html in your browser to view
 
 
-## Author
+## Authors
 
-👤 **Kaboha Jean Mark**
+👤 **Author1**
 
 - GitHub: [@KabohaJeanMark](https://github.com/KabohaJeanMark)
 - Twitter: [@jean_quintus](https://twitter.com/jean_quintus)
-- LinkedIn: [Jean Mark Kaboha](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/)
 
 
 ## 🤝 Contributing
@@ -52,10 +49,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Microverse for the README template, instructions and tutoring.
+- Hat tip to Microverse for the README template, instructions and tutoring
+- Inspired by the Odin Project
 
 ## Inspirations
-- 
+- The life of Pele
 
 ## 📝 License
 
