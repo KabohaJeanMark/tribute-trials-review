@@ -9,11 +9,6 @@
 - HTML5 & CSS3
 - No frameworks
 
-## Live Demo
-
-[Live Demo Link](https://kabohajeanmark-nytimes-clone.onrender.com/)
-
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
