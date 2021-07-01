@@ -50,7 +50,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to Microverse for the README template, instructions and tutoring
-- Inspired by the Odin Project
+- Inspired by Free Code Camp.s Responsive Web Design Certification
 
 ## Inspirations
 - The life of Pele
